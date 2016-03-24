@@ -8,6 +8,7 @@
 		<h1>Iaroslav Kurnosov</h1>
 			<p>Date of birth: March 10, 1992<br>
 			Contact Number Tel .: 050-862-68-60<br>
-			Contact E-mail: iaroslav.kurnosov1@gmail.com<br></p>
+			Contact E-mail: iaroslav.kurnosov1@gmail.com<br>
+			Contact Skype: iaroslav.kurnosov</p>
 	</body>
 </html>
