@@ -11,10 +11,10 @@
 			font-size: 16px;
 			}
 		hr {
-			border: none; /* Убираем границу для браузера Firefox */
-			color: #73aefb; /* Цвет линии для остальных браузеров */
-			background-color: #73aefb; /* Цвет линии для браузера Firefox и Opera */
-			height: 1px; /* Толщина линии */
+			border: none;
+			color: #73aefb;
+			background-color: #73aefb;
+			height: 1px;
 			}
 		</style>
 	</head>
